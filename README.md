@@ -11,7 +11,6 @@
 ## Projects
 - SO-101 Manipulation Experiments
 - RDT-1B Reproduction Notes
-- F407 Remote Control Car
 - Embodied AI Paper Notes
 
 ## Writing
